@@ -1,0 +1,16 @@
+{
+  "name": "ALpha",
+  "symbol": "Alpha",
+  "description": "Alpha Test ",
+  "image": "https://imgur.com/a/5ASa88q",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://imgur.com/a/5ASa88q",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
