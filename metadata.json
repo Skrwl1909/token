@@ -1,13 +1,13 @@
 {
-  "name": "ALpha",
-  "symbol": "Alpha",
-  "description": "Alpha Test ",
-  "image": "https://imgur.com/a/5ASa88q",
+  "name": "FOOLS Coin",
+  "symbol": "Fool",
+  "description": "First Official Fools Day Coin",
+  "image": "https://imgur.com/GkcoyKN",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://imgur.com/a/5ASa88q",
+        "uri": "https://imgur.com/GkcoyKN",
         "type": "image/png"
       }
     ],
