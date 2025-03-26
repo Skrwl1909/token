@@ -2,12 +2,12 @@
   "name": "FOOLS Coin",
   "symbol": "Fool",
   "description": "First Official Fools Day Coin",
-  "image": "https://imgur.com/GkcoyKN",
+  "image": "https://i.imgur.com/GkcoyKN.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://imgur.com/GkcoyKN",
+        "uri": "https://i.imgur.com/GkcoyKN.png",
         "type": "image/png"
       }
     ],
